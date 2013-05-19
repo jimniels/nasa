@@ -1,0 +1,177 @@
+{
+    "chapter": [
+        {
+            "id":               "1",
+            "title" :           "A Perspective on Apollo",
+            "desc" :            "The forces that set us on the path to the Moon",
+            "author" :          "James E. Webb",
+            "section" : [
+                {
+                    "heading": "Introduction",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "After hundreds of thousands of years of occupancy, and several thousand years of recorded history, man quite suddenly left the planet Earth in 1969 to fly to its nearest neighbor, the Moon. The ten-year span it took to accomplish this task was but a blink of an eye on an evolutionary scale, but the impact of the event will permanently affect man's destiny."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "In reflecting on the Apollo program, I am sometimes overwhelmed at the sheer magnitude of the task and the temerity of its undertaking. When Apollo was conceived, a lunar landing was considered so difficult that it could only be accomplished through exceptional large-scale efforts in science, in engineering, and in the development of operational and training systems for long-duration manned flights. These clearly required the application of large resources over a decade."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Industry, universities, and government elements had to be melded into a team of teams. Apollo involved competition for world leadership in the understanding and mastery of rocketry, of spacecraft development and use, and of new departures of international cooperation in science and technology. Like the Bretton Woods monetary agreement, President Truman's Point Four Program, and the Marshall Plan, the Apollo program was a further attempt toward world stability - but with a new thrust."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "This chapter will review the origins of this policy and how it was successfully implemented. Subsequent chapters describe how particular problems were solved, how the astronauts and other teams of specialists were trained and performed, how the giant spaceboosters were built and flown, and how all this was joined together in a fully integrated effort. In many of these essays you will find indications of the meaning of the Apollo program to those who devoted much of their lives to it."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "In the pre-space years the main defensive shield of the free world against Communist expansion was the preeminence of the United States in aeronautical technology and nuclear weaponry. These were an integral part of a system of mutual-defense treaties with other non-Communist nations."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Dozens of America's artists were invited by NASA Administrator James E. Webb to record the strange new world of space. Although an intensive use of photography had long characterized NASA's work, the Agency recognized the special ability of the artist's eye to select and interpret what might go unseen by the literal camera lens. No civilian government agency had ever sponsored as comprehensive and unrestricted an art program before. A sampling of the many paintings and drawings that resulted is presented in this chapter."
+                        }
+                    ]
+                },
+                {
+                    "heading": "A Perspective on Apollo 1",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "In the 1950s, when the U.S.S.R. demonstrated rocket engines powerful enough to carry atomic weapons over intercontinental distances, it became clear to United States and free world political and military leaders that we had to add technological strength in rocketry and know-how in the use of space systems to our defense base if we were to play a decisive role in world affairs."
+                        },
+                        {
+                            "type": "image",
+                            "src": "http://www.hq.nasa.gov/pao/History/SP-350/i-1-1.jpg",
+                            "caption": "Alfred McAdams, RANGE SAFETY, watercolor on paper. From here a straying rocket would be destroyed."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "In the United States the first decision was to give this job to our military services. They did it well. Atlas, Titan, Minuteman, and Polaris missiles rapidly added rocket power to the basic air and atomic power that we were pledged to use to support longheld objectives of world stability, peace, and progress."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "The establishment of the Atomic Energy Commission as a civilian agency had emphasized in the 1940s our hope that nuclear technology could become a major force for peaceful purposes as well as for defense. In 1958 the establishment of the National Aeronautics and Space Administration, again as a civilian agency, emphasized our hope that space could be developed for peaceful purposes. NASA was specifically charged with the expansion into space of our high level of aeronautical know-how. It was made responsible for research and development that would both increase our space know-how for military use, if needed, and would enlarge our ability to use space in cooperation with other nations for \"peaceful purposes for the benefit of all mankind.\""
+                        }
+                    ]
+                },
+                {
+                    "heading": "A Ferment of Debate",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "The Apollo program grew out of a ferment of imaginative thought and public debate. Long-range goals and priorities within our governmental, quasi-governmental, and private institutions were agreed on. Leaders in political, scientific, engineering, and many other endeavors participated. Debate focused on such questions as which should come first - increasing scientific knowledge or using man-machine combinations to extend both our knowledge of science and lead to advances in engineering? Should we concentrate on purely scientific unmanned missions? Should such practical uses of space as weather observations and communication relay stations have priority? Was it more vital to concentrate on increasing our military strength, or to engage in spectacular prestige-building exploits?"
+                        },
+                        {
+                            "type": "image",
+                            "src": "http://history.nasa.gov/SP-350/i-1-2a.jpg",
+                            "caption": "Robert McCall, MERCURY SUIT TEST, felt pen on paper"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "In the turbulent 1960s, Apollo flights proved that man can leave his earthly home with its friendly and protective atmosphere to travel out toward the stars and explore other parts of the solar system. In the 1970s the significance of this new capability is still not clear. Will there be a basic shift of power here on Earth to the nation that first achieves dominance in space? Can we maintain our desired progress toward a prosperous peaceful world if we allow ourselves to be outclassed in this new technology? Policymakers in Congress, the White House, the State and Defense Departments, the National Science Foundation, the Atomic Energy Commission, NASA, and other agencies agreed in the 1960s that we should develop national competence to operate large space systems repetitively and reliably. It was also agreed that this should be done in full public view in cooperation with all nations desiring to participate. However, this consensus was not unanimous. Critics thought that the Apollo program was too vast and costly, too great a drain on our scientific, engineering, and productive resources, too fraught with danger, and contended that automatic unmanned machines could accomplish everything necessary."
+                        },
+                        {
+                            "type": "image",
+                            "src": "http://history.nasa.gov/SP-350/i-1-2b.jpg",
+                            "caption": "Paul Calle, SUITING UP, pencil and wash on paper"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Specialized groups frequently overlooked the multiple objectives of developing a means of transporting astronauts to and from the Moon. Some manned spaceflight enthusiasts deplored NASA's simultaneous emphasis on flights to build a solid base of scientific knowledge of space. Some critics failed to recognize the value of having trained men make on-site observations, measurements, and judgments about lunar phenomena, and sending men to place scientific instruments where they could best answer specific questions."
+                        },
+                        {
+                            "type": "image",
+                            "src": "http://history.nasa.gov/SP-350/i-1-2c.jpg",
+                            "caption": "Robert McCall, GANTRY WHITE ROOM, felt pen on paper"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "A vast array of government agencies participated in the network of decision-making from which the basic policies that governed the Apollo program evolved. Collaboration between academic and industrial contributors required procedures that often seemed burdensome to scientists and enerineers. Even some astronauts failed at times to appreciate the potential benefits of precise knowledge as to the effect of weightlessness and spaceflight stress on their bodies. Fortunately our Nation's most thoughtful leaders recognized the necessity as well as the complexity of the various components of NASA's work and strongly endorsed the Apollo program. It is a tribute to the innate good sense of our citizens that enough of a consensus was obtained to see the effort through to success."
+                        }
+                    ]
+                },
+                {
+                    "heading": "The Goal of Apollo",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "The Apollo requirement was to take off from a point on the surface of the Earth that was traveling 1000 miles per hour as the Earth rotated, to go into orbit at 18,000 miles an hour, to speed up at the proper time to 25,000 miles an hour, to travel to a body in space 240,000 miles distant which was itself traveling 2000 miles per hour relative to the Earth, to go into orbit around this body, and to drop a specialized landing vehicle to its surface. There men were to make observations and measurements, collect specimens, leave instruments that would send back data on what was found, and then repeat much of the outward-bound process to get back home. One such expedition would not do the job. NASA had to develop a reliable system capable of doing this time after time."
+                        },
+                        {
+                            "type": "image",
+                            "src": "http://history.nasa.gov/SP-350/i-1-3a.jpg",
+                            "caption": "ohn W. McCoy II, FIRST LIGHT, watercolor on paper"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "At the time the decision was made, how to do most of this was not known. But there were people in NASA, in the Department of Defense, in American universities, and in American industry who had the basic scientific knowledge and technical know-how needed to predict realistically that it <i>could be done.</i>"
+                        },
+                        {
+                            "type": "image",
+                            "src": "http://history.nasa.gov/SP-350/i-1-3b.jpg",
+                            "caption": "Paul Calle, TESTING THE SPACESUIT, pen and ink on paper"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Apollo was based on the accumulation of knowledge from years of work in military and civil aviation, on work done to meet our urgent military needs in rocketry, and on a basic pattern of cooperation between government, industry, and universities that had proven successful in NASA's parent organization, the National Advisory Committee for Aeronautics. The space agency built on and expanded the pattern that had yielded success in the past."
+                        },
+                        {
+                            "type": "image",
+                            "src": "http://history.nasa.gov/SP-350/i-1-4.jpg",
+                            "caption": "Nicholas Solovioff, INSIDE VAB, watercolor on paper"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Systems engineering and systems management were developed to high efficiency. So was project management. New ways to achieve high reliability in complex machines were worked out. New ways to conduct nondestructive testing were developed. The best of large-scale management theory and doctrine was used to bring together both organizational (or administrative) optimization and join it to responsibility to work within the constraints of accepted organizational behavior."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id":               "2",
+            "title" :           "I Believe We Should Go to the Moon",
+            "desc" :            "Engineering what had never been done before",
+            "author" :          "Robert R. Gilruth",
+            "section" : [
+                {
+                    "heading": "Introduction",
+                    "content": [
+                        {
+                            "type": "image",
+                            "src": "http://history.nasa.gov/SP-350/i-2-1.jpg",
+                            "caption": "Speaking to Congress and the Nation, President Kennedy said on May 25, 1961: &ldquo;I believe that this nation should commit itself to achieving the goal, before this decade is out, of landing a man on the Moon and returning him safely to Earth. No single space project in this period will be more impressive to mankind, or more important in the long-range exploration of space; and none will be so difficult or expensive to accomplish.&rdquo;"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "President Kennedy's statement, &ldquo;Fly man to the Moon in this decade,&rdquo; was a beautiful definition of the task. There could be no misunderstanding as to just what was desired, and this clarity of purpose was one factor in the success of Apollo. By definition, it settled the old question of man versus instrument, and it provided a goal so difficult that new concepts, as well as new designs, would be required to accomplish it. Since the landing was geared to the decade of the sixties, the pace of the program was also defined, and a clear test of strength with the Soviets was implicit, if they chose to compete."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "The President's decision came after a long series of Russian firsts. They were the first to orbit the Earth, and the first to send instruments to the Moon; only a month earlier, Yuri Gagarin had become the first man in space. Alan Shepard had followed Gagarin into space by only a few weeks to become the first American in space. This feat had given America the feeling that, with a major effort, we might close the gap with the Soviets. The public was ready and willing to expand the space effort, and Congress did not bat an eye at Webb's estimate that $20 to $40 billion could be required to go to the Moon. It was a popular decision, and the vote of the Congress on the Moon program was virtually unanimous."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "But could it really be done? Flying man to the Moon required an enormous advance in the science of flight in a very short time. Even the concepts of manned spaceflight were only three years old, and voyaging in space over such vast distances was still just a dream. Rendezvous, docking, prolonged weightlessness, radiation, and the meteoroid hazard all involved problems of unknown dimensions. We would need giant new rockets burning high-energy hydrogen; a breakthrough in reliability; new methods of staging and handling; and the ability to launch on time, since going to the Moon required the accurate hitting of launch windows."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Man himself was a great unknown. At the time of the President's decision we had only Alan Shepard's brief 15 minutes of flight on which to base our knowledge. Could man really function on a two-week mission that would involve precise maneuvers, including retrofire into lunar orbit, backing down and landing on the Moon, lunar take-off, midcourse corrections on the way home and, finally, a high-speed reentry into Earth's atmosphere, performed with a precision so far unknown in vehicle guidance? We would have to do intensive work on spacesuit development, since flying to the Moon would be unthinkable without giving astronauts the capability of exploring the Moon on foot, and perhaps later in some roving vehicle. These men would have to be trained in the complex problems of flying and navigating in space, and we would need a cadre of men with space experience before setting out on such a voyage."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "On the spacecraft side, we felt that the concepts already under trial in Project Mercury would be applicable for the command and service module, but we would need new sources of onboard power such as the fuel cell. The landing on the Moon would require precision guidance, as well as good visibility from the cabin for the astronauts, and a graduated control of rocket thrust heretofore undeveloped. The state of the art in tracking and communication would be severely tested. Precision navigation techniques using inertial systems would be necessary, and high-speed computing for solving complex navigation problems involving the celestial mechanics of three-body systems. The mass ratios involved in the spacecraft, particularly the lunar lander, would require the ultimate in materials. Safety factors would have to be stretched in order to give the low structural weights required. And in the spacecraft, as well as the launch vehicle, new orders of reliability would be required for so long a mission so far from home."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "The Moon itself was a great unknown. Its surface, its mass distribution, and whether the lunar soil would be firm enough to support a landing craft were all open to conjecture. Finally, a master plan had to be evolved. The launch site had to be selected, roles and missions of government centers had to be determined, and a choice had to be made between the various concepts of how to go to the Moon, whether to use Earth-orbit rendezvous, direct ascent, or the most controversial of all, lunar-orbit rendezvous. A government team had to be built that, working closely together with leaders of industry, would manage the development and production of the launch vehicles, the spacecraft, and facilities for tests and operations. Not only would all these things have to be done in the short time available, but many would have to be worked out at the beginning, during what I have called &ldquo;the year of decisions.&rdquo;"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
